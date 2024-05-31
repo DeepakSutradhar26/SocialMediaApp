@@ -1,0 +1,7 @@
+.homeUser {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.507);
+    transition: all 0.5s;
+  }
